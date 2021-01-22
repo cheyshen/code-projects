@@ -1,2 +1,2 @@
-# site-javascript
+# homepage-javascript
 
